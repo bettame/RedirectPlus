@@ -1,0 +1,2 @@
+# RedirectPlus
+CATSRedirectを活用して作成した拡張機能です。Interclass Filtering Serviceと合わせて使ってください。
