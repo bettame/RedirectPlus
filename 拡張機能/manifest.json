@@ -6,7 +6,7 @@
     "manifest_version": 3,
     "content_scripts": [
         {
-            "matches": ["https://www.kogama.com/*", "https://kogama.com/*"],
+            "matches": ["https://www.kogama.com/*"],
             "js": ["content-script.js"]
         }
     ]
