@@ -6,7 +6,7 @@
     "manifest_version": 3,
     "content_scripts": [
         {
-            "matches": ["https://www.kogama.com/*", "https://www.croxyproxy.rocks/*"],
+            "matches": ["https://www.kogama.com/*", "https://www.croxyproxy.rocks/*", "https://join.worldoftanks.asia/*"],
             "js": ["content-script.js"]
         }
     ]
